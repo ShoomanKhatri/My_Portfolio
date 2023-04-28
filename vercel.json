@@ -1,0 +1,2 @@
+{ "rewrites": [{ "source": "/(.*)", "destination": "/" }] }
+// try for 404 not found.
